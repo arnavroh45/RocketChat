@@ -1,0 +1,21 @@
+{
+    "id": "ccfc2cae-82db-40f5-a029-b79a0b98e5fa",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Arnav Sharma",
+        "homepage": "rocketchat.com",
+        "support": "support.rocketchat.com"
+    },
+    "name": "Demo for GSOC",
+    "nameSlug": "demo-for-gsoc",
+    "classFile": "DemoForGsocApp.ts",
+    "description": "A demo showing the working of RocketChat",
+    "implements": [],
+    "permissions": [
+        {
+            "name": "ui.registerButtons"
+        }
+    ]
+}
